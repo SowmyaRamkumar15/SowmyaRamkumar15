@@ -3,11 +3,11 @@
 ### Computer Science Engineering Student | Java Backend Developer
 **Sri Krishna College of Engineering and Technology**
 
-- 🔭 Currently building **Java & Spring Boot backend applications**
-- 🌱 Currently learning **DSA, Spring Boot, REST APIs, React.js, and Backend Engineering**
-- 🤖 Building and exploring **AI-powered Java Full Stack applications**
-- 💻 Passionate about building **real-world applications and solving problems through technology**
-- 🚀 Currently seeking **software development internship opportunities**
+-  Currently building **Java & Spring Boot backend applications**
+-  Currently learning **DSA, Spring Boot, REST APIs, React.js, and Backend Engineering**
+-  Building and exploring **AI-powered Java Full Stack applications**
+-  Passionate about building **real-world applications and solving problems through technology**
+-  Currently seeking **software development internship opportunities**
 - ⚡ Fun fact: I enjoy turning ideas into **practical solutions that make everyday tasks easier**
 
 ### Social Presence
